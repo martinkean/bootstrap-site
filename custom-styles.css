@@ -1,0 +1,12 @@
+/*
+Custom styles
+*/
+
+body {
+    background-color: antiquewhite;
+    color: red;
+}
+
+.header-image {
+    background-image: url('images/bananas.jpg');
+}
